@@ -1,0 +1,3 @@
+topic_name=amardeep
+subscription_protocol=email
+subscription_endpoint=akamardeep1
